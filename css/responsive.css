@@ -1,0 +1,13 @@
+@media (max-width: 992px) {
+    .banner-one::before {
+        width: 150%;
+        height: 150%;
+    }
+}
+
+@media (max-width: 480px) {
+    .banner-one::before {
+        width: 170%;
+        height: 170%;
+    }
+}
